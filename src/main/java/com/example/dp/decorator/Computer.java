@@ -1,4 +1,4 @@
-package com.example.dp.Decorator;
+package com.example.dp.decorator;
 
 public class Computer {
 	public Computer() {}

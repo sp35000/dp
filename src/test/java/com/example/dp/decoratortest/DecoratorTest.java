@@ -1,9 +1,9 @@
-package com.example.dp.DecoratorTest;
+package com.example.dp.decoratortest;
 
-import com.example.dp.Decorator.CD;
-import com.example.dp.Decorator.Computer;
-import com.example.dp.Decorator.Disk;
-import com.example.dp.Decorator.Monitor;
+import com.example.dp.decorator.CD;
+import com.example.dp.decorator.Computer;
+import com.example.dp.decorator.Disk;
+import com.example.dp.decorator.Monitor;
 
 public class DecoratorTest {
 	public static void main(String args[]) {

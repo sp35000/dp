@@ -1,7 +1,7 @@
-package com.example.dp.FactoryTest;
+package com.example.dp.factorytest;
 
-import com.example.dp.Factory.Connection;
-import com.example.dp.Factory.FirstFactory;
+import com.example.dp.factory.Connection;
+import com.example.dp.factory.FirstFactory;
 
 public class ConnectionTest {
 	public static void main(String args[]) {

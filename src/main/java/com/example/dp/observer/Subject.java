@@ -1,4 +1,4 @@
-package com.example.dp.javaobserver;
+package com.example.dp.observer;
 
 public interface Subject {
 	public void registerObserver(Observer o);

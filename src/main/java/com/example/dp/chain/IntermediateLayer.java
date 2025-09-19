@@ -1,4 +1,4 @@
-package com.example.dp.chainofresponsability;
+package com.example.dp.chain;
 
 public class IntermediateLayer implements HelpInterface {
 	final int INTERMEDIATE_LAYER_HELP = 2;

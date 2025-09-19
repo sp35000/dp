@@ -1,4 +1,4 @@
-package com.example.dp.chainofresponsability;
+package com.example.dp.chain;
 
 public interface HelpInterface
 {

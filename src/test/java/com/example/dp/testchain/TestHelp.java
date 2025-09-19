@@ -1,8 +1,8 @@
-package com.example.dp.testhelp;
+package com.example.dp.testchain;
 
-import com.example.dp.chainofresponsability.Application;
-import com.example.dp.chainofresponsability.FrontEnd;
-import com.example.dp.chainofresponsability.IntermediateLayer;
+import com.example.dp.chain.Application;
+import com.example.dp.chain.FrontEnd;
+import com.example.dp.chain.IntermediateLayer;
 
 public class TestHelp {
 
